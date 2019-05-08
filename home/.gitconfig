@@ -1,3 +1,6 @@
 [user]
 	email = jonas.ulrich@ruhmesmeile.com
-	name = Jonas Ulrich | ruhmesmeile GmbH
+    name = Jonas Ulrich | ruhmesmeile GmbH
+
+[core]
+    filemode = false

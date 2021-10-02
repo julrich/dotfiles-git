@@ -1,6 +1,7 @@
 [user]
 	email = jonas.ulrich@ruhmesmeile.com
     name = Jonas Ulrich | ruhmesmeile GmbH
+	signingkey = 2E73EE475DDE7D23
 
 [core]
     filemode = false
